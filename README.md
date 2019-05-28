@@ -17,4 +17,4 @@
         -   Hover over your to-do
         -   Click the red trash can to delete
 
-### Adapted from the Web Developer Bootcamp on Udemy.
+### Adapted from the [Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) on Udemy.
