@@ -1,16 +1,11 @@
 body {
   font-family: Roboto;
-  background: #007991; /* fallback for old browsers */
-  background: -webkit-linear-gradient(
-    to right,
-    #78ffd6,
-    #007991
-  ); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(
-    to right,
-    #78ffd6,
-    #007991
-  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: url("https://images.unsplash.com/photo-1558967574-5d07ca9a68c5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80")
+    no-repeat fixed center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 h1 {
@@ -63,7 +58,7 @@ li:nth-child(2n) {
 
 input {
   font-size: 18px;
-  background-color: #f7f7f7;
+  background-color: #dfdfdf;
   width: 100%;
   padding: 13px 13px 13px 20px;
   box-sizing: border-box;
